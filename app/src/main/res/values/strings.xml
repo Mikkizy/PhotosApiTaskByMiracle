@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project2 By Miracle</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Let\'s Go!</string>
+    <string name="photos">Photos</string>
+    <string name="error">An error occurred!</string>
+    <string name="sponsor">Powered by Kinetic Smart Solutions Limited!</string>
+    <string name="details">Kindly login to access all images available on PhotosApi</string>
+</resources>
